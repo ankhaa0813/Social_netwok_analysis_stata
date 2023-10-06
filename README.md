@@ -1,0 +1,9 @@
+# Social network analysis around COVID-19 in Twitter
+I study at the Georg-August University of Goettingen for the development economics master's program. Here is the R script that I used for one of my research papers that examined the impact of environmental regulations on innovations and productivity.
+## Abstract
+This term paper investigates patterns and structure of Twitter users based on several subtopics around the COVID-19 pandemic. Furthermore, the networks of subtopics are compared throughout time. On march 11th 2020, World Health Organization (WHO) declared that the outbreak of COVID-19 
+can be characterized as a pandemic. I gathered tweets made four hours before and five hours after the WHO statement and used social network analysis. After analyzing the network's pattern, I compared it to another network constructed from tweets exactly one year later. In two ways, this 
+study will add to the current literature. First, the analysis is made on the pandemic and information flows during pandemic, so the analysis belongs to the literature which focus early warning systems during natural disasters or information dissemination during epidemics. Currently, most social 
+network analysis relies on R or Python for visualization due to their computational capacity and ease of use. The second contribution is that STATA is used to analyze a social media data set with over 900 thousand observations, and a user-written nwcommands package was used to build 
+networks. As a result, the number of COVID-19-related tweet has increased dramatically in 2021 compared to 2020. Networks based on subtopics follow a similar pattern of two clusters, large and small. According to the drawn social networks, the networks become denser after one year, and the 
+density among subtopics of Losses and Economics increases significantly from 2020 to 2021
